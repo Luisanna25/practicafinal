@@ -1,0 +1,7 @@
+<html>
+<head> <title> Practica de Seminario </title></head>
+<body>
+Practica final de Seminario
+</body>
+</head>
+<html>
